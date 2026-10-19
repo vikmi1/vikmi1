@@ -25,7 +25,7 @@ recognition, generate PDFs and store data in PostgreSQL and SQLite.
 | Project | What it does | Stack |
 |---|---|---|
 | [**voice-to-messenger**](https://github.com/vikmi1/voice-to-messenger) | Android app: dictate and get a ready-to-send message in the tone you choose. Live translation of a conversation partner into your earphones, a floating bubble over messengers, an admin panel with a token usage log | Kotlin, Jetpack Compose, Flask, WebSocket, Whisper, OpenAI / Anthropic, Docker |
-| [**MVP-Lead-Manager**](https://github.com/vikmi1/MVP-Lead-Manager) | Lead capture service: client form, manager dashboard, email and Google Sheets notifications, CSV/JSON export, GDPR-aware design | FastAPI, Pydantic v2, SQLite, Jinja2 |
+| [**MVP-Lead-Manager**](https://github.com/vikmi1/MVP-Lead-Manager) | Lead capture service: client form, manager dashboard, email and Google Sheets notifications, CSV/JSON export, GDPR-aware design. **[Live demo](https://vibecoding.aithinglab.com/mvp-lead-manager/)** | FastAPI, Pydantic v2, SQLite, Jinja2 |
 | [**Bot-with-Memory**](https://github.com/vikmi1/Bot-with-Memory) | Telegram bot with short-term memory (history + summarization) and long-term memory: RAG over uploaded PDF, DOCX and TXT files with source citations | aiogram 3, OpenAI, ChromaDB, pytest |
 | [**claude-terminal-chat**](https://github.com/vikmi1/claude-terminal-chat) | Terminal chat with Claude: Thinking mode, streaming output, model selection, history across sessions | Anthropic SDK, Rich |
 | [**table_booking**](https://github.com/vikmi1/table_booking) | Desktop app for restaurants: floor map, reservations, time-overlap checks, first-run database setup wizard | Tkinter, PostgreSQL, psycopg2 |

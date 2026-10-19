@@ -25,7 +25,7 @@
 | Проект | Что делает | Стек |
 |---|---|---|
 | [**voice-to-messenger**](https://github.com/vikmi1/voice-to-messenger) | Android-приложение: надиктовал — получил готовое сообщение в нужном тоне. Живой перевод собеседника в наушник, кнопка-пузырь поверх мессенджеров, админ-панель с журналом расхода токенов | Kotlin, Jetpack Compose, Flask, WebSocket, Whisper, OpenAI / Anthropic, Docker |
-| [**MVP-Lead-Manager**](https://github.com/vikmi1/MVP-Lead-Manager) | Сервис приёма заявок: форма для клиента, панель менеджера, уведомления на email и в Google Sheets, экспорт CSV/JSON, учёт требований DSGVO | FastAPI, Pydantic v2, SQLite, Jinja2 |
+| [**MVP-Lead-Manager**](https://github.com/vikmi1/MVP-Lead-Manager) | Сервис приёма заявок: форма для клиента, панель менеджера, уведомления на email и в Google Sheets, экспорт CSV/JSON, учёт требований DSGVO. **[Живое демо](https://vibecoding.aithinglab.com/mvp-lead-manager/)** | FastAPI, Pydantic v2, SQLite, Jinja2 |
 | [**Bot-with-Memory**](https://github.com/vikmi1/Bot-with-Memory) | Telegram-бот с кратковременной памятью (история + суммаризация) и долговременной: RAG по загруженным PDF, DOCX и TXT с указанием источников | aiogram 3, OpenAI, ChromaDB, pytest |
 | [**claude-terminal-chat**](https://github.com/vikmi1/claude-terminal-chat) | Терминальный чат с Claude: режим Thinking, потоковый вывод, выбор модели, история между сессиями | Anthropic SDK, Rich |
 | [**table_booking**](https://github.com/vikmi1/table_booking) | Десктоп-приложение для ресторана: карта зала, бронирования, контроль пересечений по времени, мастер первичной настройки БД | Tkinter, PostgreSQL, psycopg2 |
